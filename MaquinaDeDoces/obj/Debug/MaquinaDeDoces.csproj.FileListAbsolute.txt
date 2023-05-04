@@ -1,0 +1,3 @@
+C:\Users\allan.ssilva4\source\repos\MaquinaDeDoces\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.csproj.AssemblyReference.cache
+C:\Users\allan.ssilva4\source\repos\MaquinaDeDoces\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.ssilva4\source\repos\MaquinaDeDoces\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.csproj.CoreCompileInputs.cache
