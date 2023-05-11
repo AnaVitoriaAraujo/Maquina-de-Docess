@@ -9,3 +9,11 @@ C:\Users\ana.vasouza2\Source\Repos\maquinaDeDocesTI17T\MaquinaDeDoces\obj\Debug\
 C:\Users\ana.vasouza2\Source\Repos\maquinaDeDocesTI17T\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.csproj.CoreCompileInputs.cache
 C:\Users\ana.vasouza2\Source\Repos\maquinaDeDocesTI17T\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.exe
 C:\Users\ana.vasouza2\Source\Repos\maquinaDeDocesTI17T\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.pdb
+C:\Users\ana.vasouza2\Source\Repos\MaquinaDeDoce\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.csproj.AssemblyReference.cache
+C:\Users\ana.vasouza2\Source\Repos\MaquinaDeDoce\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.vasouza2\Source\Repos\MaquinaDeDoce\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.csproj.CoreCompileInputs.cache
+C:\Users\ana.vasouza2\Source\Repos\MaquinaDeDoce\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.exe
+C:\Users\ana.vasouza2\Source\Repos\MaquinaDeDoce\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.pdb
+C:\Users\ana.vasouza2\Source\Repos\MaquinaDeDoce\MaquinaDeDoces\bin\Debug\MaquinaDeDoces.exe.config
+C:\Users\ana.vasouza2\Source\Repos\MaquinaDeDoce\MaquinaDeDoces\bin\Debug\MaquinaDeDoces.exe
+C:\Users\ana.vasouza2\Source\Repos\MaquinaDeDoce\MaquinaDeDoces\bin\Debug\MaquinaDeDoces.pdb
