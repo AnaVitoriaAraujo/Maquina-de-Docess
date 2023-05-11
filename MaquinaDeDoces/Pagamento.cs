@@ -90,12 +90,6 @@ namespace MaquinaDeDoces
         }
         //fim do encapsulamento
 
-        public void ColetarPagamento()
-        {
-            Console.WriteLine("Informe a forma de pagamento: ");
-            int codigo = Convert.ToInt32(Console.ReadLine());
-        }
-
         public void codigoo()
         {
 
@@ -152,20 +146,17 @@ namespace MaquinaDeDoces
             Console.WriteLine("Volte sempre :) ");
         }// fim do void
 
-        public int trocoFinal (int valor)
-            int ValorTotal
-        { 
+        public int trocoFinal(int valor)
+        {
+
+            int ValorTotal;
+
             if (valor == valorTotal)
             {
                 Console.WriteLine("");
-            }return valor;
-
-            if (valor => valorTotal)
-            {
-                Console.WriteLine("Seu troco é de");
-            }return valor;
+            }
+            return valor;
         }
-
     }//fim da classe
 
 }//fim do projeto
