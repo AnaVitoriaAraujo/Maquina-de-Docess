@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace MaquinaDeDoces
 {
-    internal class ControlPagamento
+    class ControlPagamento
     {
-    }
-}
+        Pagamento pgto;
+        public ControlPagamento()
+        {
+            pgto = new Pagamento();
+        }//fim do construtor
+    }//fim da classe
+}//fim do método

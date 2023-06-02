@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MaquinaDeDoces
 {
-    class Program// nao vou usat a internal
+    class Program// nao vou usar a internal
     {
         static void Main(string[] args)
         {
