@@ -201,6 +201,5 @@ namespace MaquinaDeDoces
             }//fim do if
             return false;
         }//fim do solicitarProduto
-
     }//fim da classe
 }//fim do projeto
